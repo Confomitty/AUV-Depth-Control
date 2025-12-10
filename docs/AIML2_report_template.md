@@ -1,0 +1,1 @@
+# AIML2 Report (LQR & Adaptive)\nDescribe LQR design, Q/R sweeps, adaptive scheme, and comparison.\n
